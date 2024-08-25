@@ -1,4 +1,4 @@
-# 🖖 Olá, eu sou a Fernanda!
+# 🖖 Olá, eu sou a Fer!
 
 Sou estudante de Análise e Desenvolvimento de Sistemas, com uma paixão especial por desenvolvimento e qualidade de software.  
 Aqui no GitHub, você verá minha jornada de aprendizado e os projetos que estou criando para aprimorar minhas habilidades.  
