@@ -1,21 +1,23 @@
 # 🖖 Olá, eu sou a Fer!
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, com uma paixão especial por qualidade de software.  
-Aqui no GitHub, você verá minha jornada de aprendizado e os projetos que estou criando para aprimorar minhas habilidades.  
-Seja bem-vindo(a) e fique à vontade para explorar e me contatar!
+Sou estudante de Análise e Desenvolvimento de Sistemas com uma paixão especial por qualidade de software.  
+Aqui no GitHub, você verá minha jornada de aprendizado e os projetos que estou criando para aprimorar minhas habilidades.
+
+<br>
 
 <div align="left">
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXU5dnpldjRic2RuNDFidm9ycWFwanY5Z2F5dGZ1ZmpsZDFodWE4NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/IPhL5ZvzvcGVWml71R/giphy.gif">
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmJhYmR4YWFud2tzdXR5anV5MnhkNmNsazhmNGJmZmQ4cmEybDZxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g01ZnwAUvutuK8GIQn/giphy.gif">
 </div>
 
-## Stack Atual e aprendendo:
+<br>
+
+## Stack atual e aprendendo:
 
 🥇 **Linguagem Principal:** Javascript  
-🎉 **Frontend:** HTML5, CSS3, Javascript, ReactJS  
+🎉 **Frontend:** HTML5, CSS, Javascript, ReactJS  
 ⚙ **Backend:** NodeJS, PHP    
 🌐 **APIs e Integrações:** Testes de APIs RESTful e SOAP, utilizando ferramentas como Swagger, Widzler e Postman para criação e execução de testes de integração  
-🛢 **Banco de Dados:**  PostgreSQL, MySQL, SQL Server  
-🛠️ **Ferramentas:** VS Code, Postman , Swagger, Widzler  
+🛢 **Banco de Dados:**  PostgreSQL, MySQL, SQL Server    
 🔍 **Habilidades:** Depuração de código-fonte, testes de APIs, análise de logs  
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hogefer) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matosfer) 
