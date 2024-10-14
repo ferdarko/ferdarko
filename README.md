@@ -11,14 +11,6 @@ Aqui no GitHub, você verá minha jornada de aprendizado e os projetos que estou
 
 <br>
 
-## Stack atual e aprendendo:
-
-🥇 **Linguagem Principal:** Javascript  
-🎉 **Frontend:** HTML5, CSS, Javascript, ReactJS  
-⚙ **Backend:** NodeJS, PHP    
-🌐 **APIs e Integrações:** Testes de APIs RESTful e SOAP, utilizando ferramentas como Swagger, Widzler e Postman para criação e execução de testes de integração  
-🛢 **Banco de Dados:**  PostgreSQL, MySQL, SQL Server    
-🔍 **Habilidades:** Depuração de código-fonte, testes de APIs, análise de logs  
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hogefer) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matosfer) 
 
